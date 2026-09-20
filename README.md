@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mélusine</h1>
 
-<h3 align="center">Software Engineering graduate from Switzerland</h3>
+<h3 align="center">I'm a Software Engineer in Switzerland.</h3>
 
 * 🎓 I recently graduated with a **BSc in Computer Science and Communication Systems – Software Engineering** from **HE-Arc / HES-SO**
 
